@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysGitHub\\CollectionPrograms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F90DF0A0-9F54-4EF6-B53D-0CFD14417A98}|DapperWithStoredProcedure\\DapperWithStoredProcedure.csproj|c:\\myfolders\\work\\consoleapplications\\100daysgithub\\collectionprograms\\dapperwithstoredprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90DF0A0-9F54-4EF6-B53D-0CFD14417A98}|DapperWithStoredProcedure\\DapperWithStoredProcedure.csproj|solutionrelative:dapperwithstoredprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E8697B-2D0C-4B83-8F0E-AD8705F93D86}|DapperWebAPIStoredProcedure\\DapperWebAPIStoredProcedure.csproj|c:\\myfolders\\work\\consoleapplications\\100daysgithub\\collectionprograms\\dapperwebapistoredprocedure\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E8697B-2D0C-4B83-8F0E-AD8705F93D86}|DapperWebAPIStoredProcedure\\DapperWebAPIStoredProcedure.csproj|solutionrelative:dapperwebapistoredprocedure\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E8697B-2D0C-4B83-8F0E-AD8705F93D86}|DapperWebAPIStoredProcedure\\DapperWebAPIStoredProcedure.csproj|c:\\myfolders\\work\\consoleapplications\\100daysgithub\\collectionprograms\\dapperwebapistoredprocedure\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E8697B-2D0C-4B83-8F0E-AD8705F93D86}|DapperWebAPIStoredProcedure\\DapperWebAPIStoredProcedure.csproj|solutionrelative:dapperwebapistoredprocedure\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E8697B-2D0C-4B83-8F0E-AD8705F93D86}|DapperWebAPIStoredProcedure\\DapperWebAPIStoredProcedure.csproj|c:\\myfolders\\work\\consoleapplications\\100daysgithub\\collectionprograms\\dapperwebapistoredprocedure\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E8697B-2D0C-4B83-8F0E-AD8705F93D86}|DapperWebAPIStoredProcedure\\DapperWebAPIStoredProcedure.csproj|solutionrelative:dapperwebapistoredprocedure\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysGitHub\\CollectionPrograms\\DapperWithStoredProcedure\\Program.cs",
+              "RelativeDocumentMoniker": "DapperWithStoredProcedure\\Program.cs",
+              "ToolTip": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysGitHub\\CollectionPrograms\\DapperWithStoredProcedure\\Program.cs",
+              "RelativeToolTip": "DapperWithStoredProcedure\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA/wCwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:58:44.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysGitHub\\CollectionPrograms\\DapperWebAPIStoredProcedure\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "DapperWebAPIStoredProcedure\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysGitHub\\CollectionPrograms\\DapperWebAPIStoredProcedure\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "DapperWebAPIStoredProcedure\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:55:48.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysGitHub\\CollectionPrograms\\DapperWebAPIStoredProcedure\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DapperWebAPIStoredProcedure\\CustomerRepository.cs",
+              "ToolTip": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysGitHub\\CollectionPrograms\\DapperWebAPIStoredProcedure\\CustomerRepository.cs",
+              "RelativeToolTip": "DapperWebAPIStoredProcedure\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:26:19.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysGitHub\\CollectionPrograms\\DapperWebAPIStoredProcedure\\Customer.cs",
+              "RelativeDocumentMoniker": "DapperWebAPIStoredProcedure\\Customer.cs",
+              "ToolTip": "C:\\MyFolders\\Work\\ConsoleApplications\\100DaysGitHub\\CollectionPrograms\\DapperWebAPIStoredProcedure\\Customer.cs",
+              "RelativeToolTip": "DapperWebAPIStoredProcedure\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:25:12.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

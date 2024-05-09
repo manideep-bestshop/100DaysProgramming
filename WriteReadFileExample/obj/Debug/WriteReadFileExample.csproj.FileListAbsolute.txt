@@ -1,0 +1,7 @@
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\WriteReadFileExample\bin\Debug\WriteReadFileExample.exe.config
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\WriteReadFileExample\bin\Debug\WriteReadFileExample.exe
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\WriteReadFileExample\bin\Debug\WriteReadFileExample.pdb
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\WriteReadFileExample\obj\Debug\WriteReadFileExample.csproj.AssemblyReference.cache
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\WriteReadFileExample\obj\Debug\WriteReadFileExample.csproj.CoreCompileInputs.cache
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\WriteReadFileExample\obj\Debug\WriteReadFileExample.exe
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\WriteReadFileExample\obj\Debug\WriteReadFileExample.pdb

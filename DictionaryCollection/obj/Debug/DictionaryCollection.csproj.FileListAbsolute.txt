@@ -1,0 +1,7 @@
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DictionaryCollection\bin\Debug\DictionaryCollection.exe.config
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DictionaryCollection\bin\Debug\DictionaryCollection.exe
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DictionaryCollection\bin\Debug\DictionaryCollection.pdb
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DictionaryCollection\obj\Debug\DictionaryCollection.csproj.AssemblyReference.cache
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DictionaryCollection\obj\Debug\DictionaryCollection.csproj.CoreCompileInputs.cache
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DictionaryCollection\obj\Debug\DictionaryCollection.exe
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DictionaryCollection\obj\Debug\DictionaryCollection.pdb

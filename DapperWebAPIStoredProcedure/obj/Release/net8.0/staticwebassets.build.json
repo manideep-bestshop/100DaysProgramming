@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mwtaKg0ON1fPIg0Iy/9TPy0NEeyc2VVXG2WX1hH/RZ0=",
+  "Source": "DapperWebAPIStoredProcedure",
+  "BasePath": "_content/DapperWebAPIStoredProcedure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

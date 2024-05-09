@@ -1,0 +1,7 @@
+C:\MyFolders\Work\ConsoleApplications\100DaysChallenge\CollectionPrograms\HashCollection\bin\Debug\HashCollection.exe.config
+C:\MyFolders\Work\ConsoleApplications\100DaysChallenge\CollectionPrograms\HashCollection\bin\Debug\HashCollection.exe
+C:\MyFolders\Work\ConsoleApplications\100DaysChallenge\CollectionPrograms\HashCollection\bin\Debug\HashCollection.pdb
+C:\MyFolders\Work\ConsoleApplications\100DaysChallenge\CollectionPrograms\HashCollection\obj\Debug\HashCollection.csproj.AssemblyReference.cache
+C:\MyFolders\Work\ConsoleApplications\100DaysChallenge\CollectionPrograms\HashCollection\obj\Debug\HashCollection.csproj.CoreCompileInputs.cache
+C:\MyFolders\Work\ConsoleApplications\100DaysChallenge\CollectionPrograms\HashCollection\obj\Debug\HashCollection.exe
+C:\MyFolders\Work\ConsoleApplications\100DaysChallenge\CollectionPrograms\HashCollection\obj\Debug\HashCollection.pdb

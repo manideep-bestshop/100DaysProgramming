@@ -1,0 +1,10 @@
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DapperWithStoredProcedure\bin\Debug\DapperWithStoredProcedure.exe.config
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DapperWithStoredProcedure\bin\Debug\DapperWithStoredProcedure.exe
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DapperWithStoredProcedure\bin\Debug\DapperWithStoredProcedure.pdb
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DapperWithStoredProcedure\bin\Debug\Dapper.dll
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DapperWithStoredProcedure\bin\Debug\Dapper.xml
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DapperWithStoredProcedure\obj\Debug\DapperWithStoredProcedure.csproj.AssemblyReference.cache
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DapperWithStoredProcedure\obj\Debug\DapperWithStoredProcedure.csproj.CoreCompileInputs.cache
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DapperWithStoredProcedure\obj\Debug\DapperWi.42B69F30.Up2Date
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DapperWithStoredProcedure\obj\Debug\DapperWithStoredProcedure.exe
+C:\MyFolders\Work\ConsoleApplications\100DaysGitHub\CollectionPrograms\DapperWithStoredProcedure\obj\Debug\DapperWithStoredProcedure.pdb
